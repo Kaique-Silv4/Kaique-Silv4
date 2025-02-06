@@ -27,8 +27,8 @@ Sou um entusiasta da tecnologia e atualmente estou aprendendo **HTML, CSS, JavaS
 
 ## 📬 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-da-silva-5b93672bb)  
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaique.silvatec46@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-da-silva-5b93672bb){:target="_blank"}
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaique.silvatec46@gmail.com){:target="_blank"}
 
 ---
 
