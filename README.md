@@ -32,4 +32,6 @@ Sou um entusiasta da tecnologia e atualmente estou aprendendo **HTML, CSS, JavaS
 
 ---
 
-## 📊 Estatísticas  
+## 🚀 Projetos
+
+
