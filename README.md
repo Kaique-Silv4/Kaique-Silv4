@@ -33,5 +33,6 @@ Sou um entusiasta da tecnologia e atualmente estou aprendendo **HTML, CSS, JavaS
 ---
 
 ## 🚀 Projetos
-
+- [Lista de Tarefas](https://github.com/Kaique-Silv4/projeto-lista-de-tarefas)
+- [Projeto de pesquisa](https://github.com/Kaique-Silv4/projeto-de-pesquisa-function)
 
